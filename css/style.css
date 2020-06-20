@@ -409,6 +409,7 @@ body {
   .button-group{
     height: auto;
     flex-direction: column;
+    margin-bottom: 60px;
   }
   .search-input{
     width: 260px;
@@ -430,7 +431,7 @@ body {
     background-color: transparent;
     color: #fff;
     border: none;
-    margin-bottom: 30px;
+    margin-bottom: 18px;
   }
   .film{
     padding-top: 50px;
